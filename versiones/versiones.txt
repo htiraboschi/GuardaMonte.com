@@ -1,0 +1,4 @@
+- 1.0: es la versión que le entregaron instalada en el servidos a Diana en mayo o junio 2022
+- 1.1: cambios en textos (Whatsapp diana 26/06/2022). 
+	Archivos cambiados: 
+	Update	D:\esto no se backupea\temp\Guardamonte 1.1\public_html\index.html
